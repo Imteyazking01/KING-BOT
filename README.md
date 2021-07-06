@@ -6,7 +6,7 @@
 
 
 
-# 𝚃𝙷𝙴 𝙼𝙰𝙵𝙸𝙰𝙱𝙾𝚃
+# KING BOT
 This is a userbot made for telegram. I made this userbot with help of all other userbots available in telegram. All credits goes to its Respective Owners....
 
 MafiaBot made by @Imteyaz_king. Supported by respective hellbot owner @Imteyaz_king. Join for update related info channel and group :- https://t.me/King_fighter_Bot_support THANKS FOR VISITING OUR REPO💖
