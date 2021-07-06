@@ -9,9 +9,9 @@
     "modular",
     "productivity"
   ],
-  "repository": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "website": "https://github.com/H1M4N5HU0P/MAFIABOT/",
-  "success_url": "https://t.me/MAFIABOT_SUPPORT",
+  "repository": "https://github.com/Imteyazking01/KING-BOT/",
+  "website": "https://github.com/Imteyazking01/KING-BOT/",
+  "success_url": "https://t.me/King_fighter_Bot_support",
   "env": {
     "ENV": {
       "description": "Set this to ANYTHING will enable heroku.",
@@ -23,8 +23,8 @@
       "required": false
     },
     "ALIVE_NAME": {
-      "description": "Fill your Full name or Username like @H1M4N5HU0P. By default it is Mafia User",
-      "value": "@MafiaBot_Support",
+      "description": "Fill your Full name or Username like @Imteyaz_king. By default it is King User",
+      "value": "@King_fighter_Bot_support",
       "required": false
     },
     "ALIVE_MSG": {
@@ -39,7 +39,7 @@
     },
     "BIO_MSG": {
       "description": "Put Your Telegram Bio Here Required For Auto Bio.",
-      "value": "😈LEGEND'S SAY'S TO MAFIABOT😈",
+      "value": "😈LEGEND'S SAY'S TO KINGBOT😈",
       "required": false
     },
     "PMPERMIT_PIC": {
