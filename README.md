@@ -19,7 +19,7 @@ MafiaBot made by @H1M4N5HU0P. Supported by respective hellbot owner @H1M4N5HU0P.
 <details>
 
   <summary> • FOR ANY QUERY • </summary>
-<h2 align="center"> <a href="https://t.me/MafiaBot_Support">☢️JOIN MAFIABOT SUPPORT☢️</a></h2>
+<h2 align="center"> <a href="https://t.me/King_fighter_Bot_support">☢️JOIN KINGBOT SUPPORT☢️</a></h2>
 
 </details>
 
@@ -110,7 +110,7 @@ Fortunately there are no Mandatory vars for the UniBorg Support Config.
 
 ![](https://www.gnu.org/graphics/gplv3-or-later.png)
 
-Copyright (C) 2021 H1M4N5HU0P
+Copyright (C) 2021 Imteyaz
 
 Poject [MAFIABOT](https://github.com/H1M4N5HU0P/MAFIA-BOT) is free software: you can redistribute it and/or modify
 
